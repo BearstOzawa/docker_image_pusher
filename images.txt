@@ -1,1 +1,2 @@
 gdy666/lucky:latest
+homeassistant/home-assistant:latest
