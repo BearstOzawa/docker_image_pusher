@@ -1,3 +1,1 @@
-gdy666/lucky:latest
-homeassistant/home-assistant:latest
-kingmo888/rustdesk-api-server:latest
+osixia/keepalived:latest
