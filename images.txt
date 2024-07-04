@@ -1,1 +1,1 @@
-cleverest/crproxy
+openjdk:8u102-jdk
