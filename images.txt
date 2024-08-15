@@ -1,1 +1,2 @@
-rustdesk/rustdesk-server-s6:latest
+mariadb
+redis
