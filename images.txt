@@ -1,2 +1,1 @@
-mysql
-mariadb:10.11.7
+mariadb:11.0.2
