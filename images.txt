@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server:latest
+moelin/1panel:latest
