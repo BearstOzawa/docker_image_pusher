@@ -1,1 +1,1 @@
-mariadb:11.4
+rustdesk/rustdesk-server:latest
