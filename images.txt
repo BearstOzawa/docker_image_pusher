@@ -1,1 +1,1 @@
-nriver/trilium-cn:latest
+linuxserver/obsidian:latest
