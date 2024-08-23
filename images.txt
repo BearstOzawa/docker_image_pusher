@@ -1,1 +1,1 @@
-krispx/openwrt-x86_64:latest
+dreamwsbg/openwrt:14.0
