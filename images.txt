@@ -1,1 +1,1 @@
-dreamwsbg/openwrt:14.0
+esirpg/buddha:latest
