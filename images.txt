@@ -1,1 +1,1 @@
-linuxserver/obsidian:latest
+krispx/openwrt-x86_64:latest
