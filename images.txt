@@ -1,1 +1,1 @@
-esirpg/buddha:latest
+piaoyizy/openwrt-x86
