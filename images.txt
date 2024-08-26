@@ -1,1 +1,1 @@
-piaoyizy/openwrt-x86
+seataio/seata-server:latest
