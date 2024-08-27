@@ -1,1 +1,2 @@
-linuxserver/hedgedoc
+squidfunk/mkdocs-material
+hackmdio/hackmd
