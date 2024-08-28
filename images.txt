@@ -1,2 +1,1 @@
-squidfunk/mkdocs-material
-hackmdio/hackmd
+public.ecr.aws/gravitational/teleport:14
