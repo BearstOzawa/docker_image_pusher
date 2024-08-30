@@ -1,2 +1,1 @@
-docker.io/library/golang:alpine
-docker.io/library/alpine:latest
+ calciumion/new-api:latest
