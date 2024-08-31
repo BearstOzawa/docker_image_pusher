@@ -1,1 +1,1 @@
-linux-do/new-api:latest
+pengzhile/new-api
