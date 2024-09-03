@@ -1,1 +1,1 @@
-yidadaa/chatgpt-next-web
+   gosuto/chatgpt-next-web-langchain
