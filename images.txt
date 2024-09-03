@@ -1,1 +1,1 @@
-chevereto/chevereto
+ghcr.io/open-webui/open-webui:main
