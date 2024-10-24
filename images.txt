@@ -1,1 +1,1 @@
-whyour/qinglong:latest
+freshrss/freshrss
