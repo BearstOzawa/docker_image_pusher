@@ -1,1 +1,1 @@
-  samwaf/samwaf
+	gdy666/lucky:latest
