@@ -1,1 +1,1 @@
-dpanel/dpanel:latest
+dpanel/dpanel:lite
