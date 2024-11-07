@@ -1,1 +1,1 @@
-dpanel/dpanel:lite
+ghcr.io/immich-app/immich-server:release
